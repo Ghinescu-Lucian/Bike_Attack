@@ -9,6 +9,6 @@
  # Administrator user can:
  1) Add a product
  2) Edit or delete a product
- 3) View list of all orders and capability of accept/reject any order
+ 3) View list of all orders and capability of accept/decline any order
 # Technologies used:
 # HTML, CSS, JavaScript, PHP, MySQL
